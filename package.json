@@ -154,6 +154,8 @@
     "ie >= 10"
   ],
   "sideEffects": [
-    "lib/**/style/*"
+    "lib/**/style/*",
+    "*.less",
+    "*.css"
   ]
 }
